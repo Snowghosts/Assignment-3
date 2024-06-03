@@ -1,0 +1,24 @@
+Post ID: 5
+Title: Title is this
+Body: Take this as an example of 250 characters because I am not going to type out 250 characters in this actual chat because it is way too long, hopefully after I am done righting this it will be 250 characters, oh wow it is almost a character's checker and yes
+Tags: tag1,  tag2,  tag3
+Difficulty: Easy
+Emergency: Oridinary
+Comments: []
+----------
+Post ID: 3
+Title: Title is like this
+Body: Take this as an example of 250 characters because I am not going to type out 250 characters in this actual chat because it is way too long, hopefully after I am done righting this it will be 250 characters, oh wow it is almost a character's checker and yes
+Tags: tag2,  tag1,  tag3
+Difficulty: Easy
+Emergency: Ordinary
+Comments: []
+----------
+Post ID: 3
+Title: Title suit requirement
+Body: wechuinorhunioerwcqhunioernhuioerhunionhuioqwercnuoicqwerhinouqwerchinounqwerchiounhuioceqrwhuniocqrwhunioceqrwqwerchioucwqwerchiounqwchouieqrwcqehiorucqwerinocwhuioqniohuechuniocnoeiuqwecnohuiceqrwhunioceqrwqechuinoqwerchinouqwerchinouwcqernohiucqeruniqwcerhuniqcerwohuniqwerchinuqwerchinuqwerchiuqwercnhiuoehinurnchiu
+Tags: tag2,  tag3,  tag4
+Difficulty: Easy
+Emergency: Ordinary
+Comments: []
+----------
